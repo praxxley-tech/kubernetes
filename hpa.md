@@ -4,10 +4,10 @@
 
 **Metrics Server**: Kubernetes benötigt den Metrics Server, um die Ressourcennutzung der Pods zu überwachen.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 * Prometheus als Beispiel
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>

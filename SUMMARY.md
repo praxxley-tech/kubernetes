@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Kubernetes Advanced](README.md)
-* [Inhalt](inhalt.md)
+* [Inhalt](kapitel.md)
 * [Was ist CNI](was-ist-cni.md)
-* [Networking](networking.md)
+* [Networking](kubeproxy.md)
 * [Onprem ohne Cloudplattform](onprem-ohne-cloudplattform.md)
 * [VPA](vpa.md)
 * [HPA](hpa.md)

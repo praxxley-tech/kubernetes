@@ -13,7 +13,7 @@ Destinationnat / DNAT mit zwei Einträgen (als Beispiel):
 
 Er entscheidet sich für 10.244.2.200 -> Record getroffen wurden
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Als Beispiel wurde jetzt die D. auf diesen Record angepasst
 
@@ -35,7 +35,7 @@ ip route
 
 Beispiel:
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ```
 // iptables
