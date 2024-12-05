@@ -4,11 +4,11 @@ description: Ohne CNI kein Kubernetes -> Wie läuft der Verkehr über das Netzwe
 
 # Was ist CNI
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Worker nodes sollen die Arbeitslast der Kunden haben 1 - N
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
