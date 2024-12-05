@@ -1,6 +1,6 @@
-# Kapitel
+# Inhalt
 
-CNI im Detail
+Was ist CNI
 
 Komplexe Deployments mit Ressourcen-Managment
 
